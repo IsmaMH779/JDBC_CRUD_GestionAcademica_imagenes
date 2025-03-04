@@ -1,1 +1,1 @@
-# JDBC_CRUD_GestionAcademica_imagenes
+# JDBC_CRUD_GestionAcademica
